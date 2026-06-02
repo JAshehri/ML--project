@@ -26,13 +26,7 @@ pip install numpy pandas matplotlib seaborn scipy nltk scikit-learn imbalanced-l
 ## Dataset
 
 Place the dataset file in the same directory as the notebook:
-
-```text
-[drugs_side_effects_drugs_com.csv
-](https://www.kaggle.com/datasets/jithinanievarghese/drugs-side-effects-and-medical-condition)
-```
-
----
+https://www.kaggle.com/datasets/jithinanievarghese/drugs-side-effects-and-medical-condition
 
 ## Running the Project
 
